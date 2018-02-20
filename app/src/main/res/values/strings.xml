@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">NewsApp</string>
+
+  <!-- Main Activity -->
+  <string name="title_fragment_articles">Articles</string>
+  <string name="title_fragment_favorites">Favorites</string>
+  <string name="title_fragment_publishers">Publishers</string>
+
+  <!-- Bottom Navigation -->
+  <string name="bottom_menu_articles">Articles</string>
+  <string name="bottom_menu_favorites">Favorites</string>
+  <string name="bottom_menu_publishers">Publishers</string>
+
+  <!-- Article Details Activity -->
+  <string name="menu_add_to_favorites">Add to favorites</string>
+
+  <!-- Favorites Articles Fragment -->
+  <string name="no_saved_articles">No saved articles</string>
+
+</resources>

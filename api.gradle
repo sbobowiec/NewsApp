@@ -1,0 +1,4 @@
+ext {
+  API_BASE_URL = "https://newsapi.org/v2/"
+  API_KEY = "81ea12131a14424d8694d0584ba68a93"
+}
